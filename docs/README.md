@@ -50,6 +50,9 @@ This project has the following dependencies:
 - Keras `sudo pip install keras` 
 
 ## Usage
+first, Image Crawling
+ex)'python ImageCrewling.py class_1_images class_2_images class_X_images ...'
+
 The only thing you have to do to get started is set up the folders in the following structure:
 
     ├── "dataset_name"                   
